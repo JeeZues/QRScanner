@@ -1,4 +1,4 @@
-var sound = new Audio("audio/found_it.mp3");
+var sound = new Audio("found_it.mp3");
 
 var playSound = function() {
   sound.play();
